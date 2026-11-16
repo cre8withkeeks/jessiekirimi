@@ -54,7 +54,7 @@ section { padding:44px 0; }
 .contact a { text-decoration:underline; text-underline-offset:4px; text-decoration-thickness:2px; font-weight:700; display:inline-block; padding:6px 0; }
 .contact a:hover, .contact a:focus-visible { text-decoration-thickness:4px; }
 .contact { display:flex; flex-wrap:wrap; gap:12px 30px; margin:18px 0 6px; font-size:20px; }
-.page-head { padding:40px 0 10px; }
+.page-head { padding:40px 20px 10px; }
 .page-head p.sub { font-size:20px; margin:12px 0 0; color:var(--muted); }
 .cs h2 { margin-bottom:12px; }
 .cs p { max-width:70ch; }
